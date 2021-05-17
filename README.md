@@ -1,7 +1,26 @@
 # Disease-Prediction-Using-ML
 Disease Prediction software using machine learning with tkinter interface
-Disease Prediction using Machine Learning is a system which predicts the disease based on the information provided by the user If the patient is not much serious and the user just wants to know the type of disease, he/she has been through. 
 
-Now a day’s health industry plays major role in curing the diseases of the patients so this is also some kind of help for the health industry to tell the user and also it is useful for the user in case he/she doesn’t want to go to the hospital or any other clinics, so just by entering the symptoms and all other useful information the user can get to know the disease he/she is suffering from and the health industry can also get benefit from this system by just asking the symptoms from the user and entering in the system and in just few seconds they can tell the exact and up to some extent the accurate diseases. 
+In competitive environment of economic development the mankind has involved so much that he/she is not concerned about health. 
 
-This Disease Prediction is completely done with the help of Machine Learning and Python Programming language with Tkinter Interface for it and also using the dataset that is available previously by the hospitals using that we will predict the disease. Now a day’s doctors are adopting many scientific technologies and methodology for both identification and diagnosing not only common disease, but also many fatal diseases. The successful treatment is always attributed by right and accurate diagnosis. Doctors may sometimes fail to take accurate decisions while diagnosing the disease of a patient, therefore disease prediction systems which use machine learning algorithms assist in such cases to get accurate results. The project disease prediction using machine learning is developed to overcome general disease in earlier stages. 
+According to research there are 40% people who ignores about general disease which leads to harmful disease later.
+
+The main reason of ignorance is laziness and no time to take an appointment and consult the doctor which later results into fatal disease.
+
+The main motive to develop this project is that a user can sit at their convenient place and have a check-up of their health. 
+
+This Disease Prediction is completely done with the help of Machine Learning
+
+The UI is designed in such a simple way that everyone can easily operate on it and can have a check-up.
+
+FEATURES:
+
+ #This Project will predict the diseases of the patients based on the symptoms and other general information using the datasets.
+
+ #This is done based on the previous datasets of the hospitals so after comparing it can provide up to 80% of accurate results.
+
+ #The disease is predicted using three algorithms and the user has to enter the symptoms from the given drop-down menu, in order to get correct accuracy, the user has to enter  maximum possible symptoms.
+
+ #To make application more user friendly, simple and convenient UI is designed
+
+ #Here the user has to register first, in order to use the prediction and then login to the system using the credentials such as username and password.
