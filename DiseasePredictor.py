@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 ctypes.windll.shcore.SetProcessDpiAwareness(2)
 
 DRIVER = 'SQL Server'
-SERVER_NAME = 'DESKTOP-34I8OUD'
+SERVER_NAME = 'XYZ'
 
 conn_string = f"""
     Driver={{{DRIVER}}};
