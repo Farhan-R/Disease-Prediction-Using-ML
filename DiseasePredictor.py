@@ -41,10 +41,10 @@ class LoginScreen:
             messagebox.showerror("Error!", "Enter User Name And Password", parent=self.main_screen)
         else:
             try:
-                cursor.execute("USE DBMS_USERS_DB")
+                cursor.execute("USE DBMS_USERS_DB") # User details database
                 cursor.commit()
                 cursor.execute("SELECT * FROM USER_DETAILS WHERE UserName='%s' AND Password='%s'"
-                               % (self.user_name.get(), self.password.get()))
+                               % (self.user_name.get(), self.password.get()))  # User_Details is the table containing user data
                 cursor.commit()
                 row = cursor.fetchone()
                 if row is None:
